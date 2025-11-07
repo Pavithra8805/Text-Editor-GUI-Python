@@ -1,0 +1,8 @@
+# Modern Text Editor - Requirements
+# Python 3.6 or higher required
+
+# Core Dependencies (included with Python standard library)
+# tkinter - GUI framework (pre-installed with Python)
+
+# No external packages required
+# This application uses only Python standard library modules
